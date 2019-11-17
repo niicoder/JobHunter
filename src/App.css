@@ -1,0 +1,25 @@
+.sign-in {
+    text-align: center;
+    padding: 20px;
+    background: lightgrey;
+    width: 50%;
+    min-width: 320px;
+    margin: 0 auto
+}
+
+.sign-in-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    /* padding: 50px 0; */
+    flex-wrap: wrap;
+}
+
+.sign-in-container .sign-in-child, .sign-in-container #google-sign-in-button {
+    margin: 20px 0;
+}
+
+.err {
+    font-size: 20px;
+    color: red;
+}
