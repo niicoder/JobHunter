@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "agenda": "^2.0.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "body-parser": "^1.18.3",
     "datejs": "^1.0.0-rc3",
     "express": "^4.16.4",
